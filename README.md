@@ -1,1 +1,1 @@
-This is my first project using git and HTML to create a recipe website. This site has multiple pages for recipies and includes links to move between them.
+This is my first project using HTML to create a recipe website. This site has multiple pages for recipies and includes links to move between them. Git will be used as the Version Control System (VCS) while github will be used as a remote git repository.
