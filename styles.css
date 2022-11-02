@@ -1,0 +1,39 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+
+div{
+    /* width: 700px;
+    height:auto; */
+    display: grid;
+    place-items: center;
+}
+
+h1,
+h2{
+    color: aqua;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 23px;
+}
+
+ul,
+ol{
+    color:black;
+    font-size: 20px;
+    list-style-position: inside;
+    text-align: center;
+}
+
